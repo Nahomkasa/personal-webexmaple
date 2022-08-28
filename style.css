@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+}
+body, h1{
+    margin: 0px;
+}
+h1{
+    padding-top: 10px;
+    width: 50%;
+    margin: auto;
+    font-size: 34px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-style: satisty;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.header{
+    padding-top: 10px;
+    background-image: src = " cloud_2601-fe0f.png";
+    background-color: #E4F9F5 ;
+    display: inline block;
+}
+.cloud{
+    position:absolute;
+    left: 150px;
+    top: 210px;
+}
+.cloud1{
+    position: absolute;
+    margin: 0 auto;
+    right: 200px;
+    top: -50px;
+}
+.profile{
+    padding-top: 80px;
+    display: inline-block;
+    height: 130px;
+}
+hr{
+    text-decoration: none;
+    border: dotted;
+    border-bottom: none;
+    border-width: 10px;
+    width: 20%;
+    border-color:rgb(193, 236, 250);
+}
+.pag{
+    display: inline-block;
+    margin:0px, auto,0px,auto;
+
+    
+}
+.foot{
+    background-color: aliceblue;
+    width: 100%;
+    height: auto;
+
+}
